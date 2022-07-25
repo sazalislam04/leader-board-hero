@@ -1,0 +1,15 @@
+.leader-container {
+  width: 900px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+::-webkit-scrollbar {
+  background: #ffe0e0;
+  width: 0.87rem;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: #ff4747;
+  border-radius: 10px;
+}
